@@ -1,0 +1,1 @@
+{"name":"wired-weave","version":"0.1.0","description":"Kanban board CLI","main":"wired-weave.js","bin":{"wired-weave":"./wired-weave.js"},"license":"MIT"}
